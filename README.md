@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ScriptJayT/ScriptJayT/blob/master/devcard.svg" width="400" alt="Jace's Dev Card"/></a>
+
 <!--
 **ScriptJayT/ScriptJayT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
