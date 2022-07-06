@@ -19,6 +19,5 @@ But sometimes I do play with some other languages, though not as many
 - Bash: 2022
 
 
-
 <a href="https://app.daily.dev/Jace"><img src="https://github.com/ScriptJayT/ScriptJayT/blob/main/devcard.svg" width="400" alt="Jace's Dev Card"/></a>
 
