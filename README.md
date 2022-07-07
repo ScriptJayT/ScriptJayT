@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-You can call me Jace, I am a junior web-developer and -copywriter, scripting away since 2018 and scribbling things resembling words and phrases since 2022.
+You can call me Jace, I am a junior web-developer and -copywriter, scripting away since 2018 and scribbling things resembling words and phrases professionaly since 2022.
 
 - Pronouns: they/them
 - Age: ⚪🥈🐉
