@@ -15,7 +15,7 @@ Currently I script in a couple of web-languages
 - PHP: 2019
 - SQL: 2019
 
-And I am quite the fan of these extension-languages and libraries
+And I am familiar with these extension-languages and libraries
 - jQuery: 2019
 - SASS: 2022
 
