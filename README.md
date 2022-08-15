@@ -13,7 +13,7 @@ Currently I have knowledge of a couple languages
 |---|---|---|
 | HTML _(2018)_ | jQuery _(2019)_ | Bash _(2022)_ |
 | CSS _(2018)_ | SASS _(2022)_ | Markdown _(2022)_ |
-| JS _(2018)_ | TS _(2022)_ | NodeJS |
+| JS _(2018)_ | TS _(2022)_ | 
 | PHP _(2019)_ |
 | SQL _(2019)_ | 
 
