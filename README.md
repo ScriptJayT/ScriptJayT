@@ -17,7 +17,25 @@ Currently I have knowledge of a couple languages
 | PHP _(2019)_ |
 | SQL _(2019)_ | 
 
-I primarily work with the basic web-languages but since not too long I discovered the power of supersets like SASS and TS for CSS and JS respectively to help with the workflow. I use bash-scripts to simplify my Git and NodeJS setup.
+I primarily work with the basic web-languages but since not too long I discovered the power of supersets like SASS and TS for CSS and JS respectively to help with workflow. Furthermore I use bash-scripts to simplify my Git and NodeJS setup.
 
-<a href="https://app.daily.dev/Jace"><img src="https://github.com/ScriptJayT/ScriptJayT/blob/main/devcard.svg" width="400" alt="Jace's Dev Card"/></a>
+### My Work Environment 💻
+
+I use VS Code as my IDE, and thusfar pretty much al I need.
+With following extensions installed:
+- Live Server
+- Prettier
+- Indent-Rainbow
+- Better Comments
+- Codesnap
+- PHP Intellephense
+- Auto Rename Tag
+
+And these are the browsers I use for testing
+- Chrome _(Desktop & Mobile)_
+- Brave _(Desktop)_
+- Firefox _(Desktop)_
+- Duckduckgo _(Mobile)_
+
+<a href="https://app.daily.dev/Jace"><img src="https://github.com/ScriptJayT/ScriptJayT/blob/main/devcard.svg" width="250" alt="Jace's Dev Card"/></a>
 
