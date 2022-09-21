@@ -48,8 +48,8 @@ and I can dabble in a few: Japanese.
 
 Not too bad, if I say so myself.
 
-⚡Fun fact: I use words professionaly as I am also a copywriter for my company.<br>
-Only Dutch and English ones though.
+⚡Fun fact: I use words professionaly as a copywriter.<br>
+Just Dutch and English ones though.
 
 ## My Work Environment 💻
 
