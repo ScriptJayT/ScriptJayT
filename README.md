@@ -68,7 +68,7 @@ And these are the browsers I personally use for testing
 - Firefox _(Desktop)_
 - Duckduckgo _(Mobile)_
 
-### Throphees, 'cause I like winning 🏆
+## Throphees, 'cause I like winning 🏆
 
 <a href="https://app.daily.dev/Jace"><img src="https://github.com/ScriptJayT/ScriptJayT/blob/main/devcard.svg" width="400" alt="Jace's Dev Card"/></a>
 
