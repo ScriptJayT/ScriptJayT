@@ -72,6 +72,6 @@ And these are the browsers I personally use for testing
 
 <a href="https://app.daily.dev/Jace"><img src="https://github.com/ScriptJayT/ScriptJayT/blob/main/devcard.svg" width="400" alt="Jace's Dev Card"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ScriptJayT&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="400" alt="Jace's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ScriptJayT&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="Jace's Github Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptJayT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" alt="Jace's most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptJayT&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="Jace's most used languages">
