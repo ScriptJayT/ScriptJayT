@@ -35,8 +35,8 @@ Some are basic, some are great, some I don't realy like (Yes, Jquery, I'm lookin
 
 ---
 
-At this time, I'm interested in learning how to build mobile and desktop applications, and I heard about this bird <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>. <br>
-I might even look into using a framework like this one <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>.
+At this time, I'm interested in learning how to build mobile and desktop applications, and I am planning to test Tauri and Elektron. <br>
+I might even look into using a framework like Svelte or Astro.
 
 But that will have to wait; 'caus first on the list is building a CMS of my own. 🌪
 
@@ -46,10 +46,10 @@ I can speak a few: Dutch and English; <br>
 I can undestand a few: French and German; <br>
 and I can dabble in a few: Japanese.
 
-Not too bad, if I say so myself.
+Not too bad, 
 
-⚡Fun fact: I use words professionaly as a copywriter.<br>
-Just Dutch and English ones though.
+⚡Fun fact: I use these languages professionaly as a web copywriter.<br>
+Just Dutch and English though.
 
 ## My Work Environment 💻
 
@@ -73,5 +73,8 @@ And these are the browsers I personally use for testing
 <a href="https://app.daily.dev/Jace"><img src="https://github.com/ScriptJayT/ScriptJayT/blob/main/devcard.svg" width="400" alt="Jace's Dev Card"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ScriptJayT&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="400" alt="Jace's Github Stats">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptJayT)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptJayT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" alt="Jace's most used languages">
