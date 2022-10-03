@@ -74,7 +74,4 @@ And these are the browsers I personally use for testing
 
 <img src="https://github-readme-stats.vercel.app/api?username=ScriptJayT&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="400" alt="Jace's Github Stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptJayT)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptJayT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" alt="Jace's most used languages">
