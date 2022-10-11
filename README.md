@@ -33,7 +33,6 @@ Some are basic, some are great, some I don't realy like (Yes, Jquery, I'm lookin
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> (And this, because I'm too lazy to remember the steps to setup the previous two 😉)
 
----
 
 At this time, I'm interested in learning how to build mobile and desktop applications, and I am planning to test Tauri and Elektron. <br>
 I might even look into using a framework like Svelte or Astro.
@@ -48,8 +47,7 @@ and I can dabble in a few: Japanese.
 
 Not too bad, 
 
-⚡Fun fact: I use these languages professionaly as a web copywriter.<br>
-Just Dutch and English though.
+⚡Fun fact: Recently I started writing some articles about scripting. Nothing too grand, but fun, for me to write, and -I hope- for you to read. I post them on [dev.to](https://dev.to/scriptjayt), if you're interested.
 
 ## My Work Environment 💻
 
