@@ -47,7 +47,7 @@ and I can dabble in a few: Japanese.
 
 Not too bad, 
 
-⚡Fun fact: Recently I started writing some articles about scripting. Nothing too grand, but fun, for me to write, and -I hope- for you to read. I post them on [dev.to](https://dev.to/scriptjayt), if you're interested.
+⚡Fun fact: Recently I started writing some articles about scripting. Nothing too grand, but fun, for me to write, and -I hope- for you to read. I post them on <a href="https://dev.to/scriptjayt" target="_blank">dev.to</a>, if you're interested.
 
 ## My Work Environment 💻
 
