@@ -34,10 +34,10 @@ Some are basic, some are great, some I don't realy like (Yes, Jquery, I'm lookin
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> (And this, because I'm too lazy to remember the steps to setup the previous two 😉)
 
 
-At this time, I'm interested in learning how to build mobile and desktop applications, and I am planning to test Tauri and Elektron. <br>
-I might even look into using a framework like Svelte or Astro.
+At this time, I'm interested in learning how to build mobile and desktop applications, and I am planning to test Tauri and Electron. <br> The latter with which I am building a full-spec todo-app for my own use.
+On that same project-plank is the task of building a CMS of my own. 🌪
 
-But that will have to wait; 'caus first on the list is building a CMS of my own. 🌪
+I don't really use frameworks at the moment but I have seen some like Astro and Svelte which peeked my interest, however Vite will probably be the first to check out.
 
 ## Languages I actually speak
 
@@ -45,9 +45,7 @@ I can speak a few: Dutch and English; <br>
 I can undestand a few: French and German; <br>
 and I can dabble in a few: Japanese.
 
-Not too bad, 
-
-⚡Fun fact: Recently I started writing some articles about scripting. Nothing too grand, but fun, for me to write, and -I hope- for you to read. I post them on <a href="https://dev.to/scriptjayt" target="_blank">dev.to</a>, if you're interested.
+⚡Fun fact: Recently I started writing some articles about scripting. Nothing too grand. Just fun for me to write and -I hope- for you to read. I post them (on a irregular base) on <a href="https://dev.to/scriptjayt" target="_blank">dev.to</a>, if you're interested.
 
 ## My Work Environment 💻
 
@@ -66,7 +64,7 @@ And these are the browsers I personally use for testing
 - Firefox _(Desktop)_
 - Duckduckgo _(Mobile)_
 
-## Throphees, 'cause I like winning 🏆
+## Trophees, 'cause I like winning 🏆
 
 <a href="https://app.daily.dev/Jace"><img src="https://github.com/ScriptJayT/ScriptJayT/blob/main/devcard.svg" width="400" alt="Jace's Dev Card"/></a>
 
